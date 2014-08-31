@@ -1,0 +1,12 @@
+frontmatter.md
+
+mainmatter.md
+01 the self-similar software development process.md
+02 recursively descending TDD 1.md
+buy the book.md
+03 informed tdd 1.md
+buy the book.md
+
+backmatter.md
+release_notes.md
+about_the_author.md
